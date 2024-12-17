@@ -7,7 +7,6 @@ A custom server to handle Thai-language word cut using deep learning library dee
 - Server
     - FastAPI
     - Python
-    - Redis (Planned)
 - Word Cutting
     - Deepcut
 
